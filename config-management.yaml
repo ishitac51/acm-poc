@@ -5,7 +5,7 @@ metadata:
 spec:
   clusterName: usercluster2
   git:
-    syncRepo: git@github.com:ishitac51/acm-poc.git
+    syncRepo: https://github.com/ishitac51/acm-poc.git
     syncBranch: master
     secretType: none
   policyController:
