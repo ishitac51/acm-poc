@@ -8,3 +8,5 @@ spec:
     syncRepo: git@github.com:ishitac51/acm-poc.git
     syncBranch: master
     secretType: none
+  policyController:
+    enabled: true
