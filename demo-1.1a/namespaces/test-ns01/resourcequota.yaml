@@ -4,4 +4,4 @@ metadata:
   name: test-ns01-resourcequota
 spec:
   hard:
-    count/pod: 10
+    count/pod: 15
